@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AboobakerSiddiq.github.io/dashboard",
+  "homepage":"http://AboobakerSiddiq.github.io/dashboard-new",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/data-grid": "^4.0.0-alpha.32",
