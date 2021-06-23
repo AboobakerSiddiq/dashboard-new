@@ -1,0 +1,57 @@
+.feautured
+{
+    width: 100%;
+    display:flex;
+    justify-content:space-evenly;
+    color: lightgray;
+   
+}
+.featuredItem{
+    flex:1;
+    margin:0px 20px;
+    padding:30px;
+    border-radius:10px;
+    cursor: pointer;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+border:1px solid rgb(49, 46, 46);
+
+}
+.featuredItem:hover{
+color: #ffbb33;
+}
+.feautredTitle{
+    font-size:20px;
+    display: flex;
+
+}
+.featuredApp{
+    margin:10px 0px;
+    display:flex;
+    align-items:center;
+}
+.feauturedAppNo{
+    font-size:30px;
+    font-weight: 600;
+
+}
+.feauturedAppper{
+    display:flex;
+    align-items:center
+}
+.up{
+    color:green;
+    font-size:15px !important;
+    padding-left:5px;
+}
+.down{
+    color:red;
+    font-size:15px !important;
+    padding-left:05px;
+}
+.threedots{
+    padding-left:140px;
+    color: lightgray !important;
+}
+
+
